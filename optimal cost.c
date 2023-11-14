@@ -1,4 +1,4 @@
-#include <iostream>  
+#include <iostream>
 using namespace std;
 int min_(int a, int b, int c){
    if (a < b)
